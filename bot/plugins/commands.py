@@ -21,8 +21,8 @@ async def start_command(_, msg: Message):
                     InlineKeyboardButton(text='⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'https://telegram.me/{Telegram.BOT_USERNAME}?startgroup=botstart')
                 ],
                 [
-                    InlineKeyboardButton(text='• ᴜᴩᴅᴀᴛᴇꜱ •', url='https://telegram.me/TechifyBots'),
-                    InlineKeyboardButton(text='• ꜱᴜᴩᴩᴏʀᴛ •', url='https://telegram.me/TechifySupport')
+                    InlineKeyboardButton(text='• ᴜᴩᴅᴀᴛᴇꜱ •', url='https://t.me/hd_movies488'),
+                    InlineKeyboardButton(text='• ꜱᴜᴩᴩᴏʀᴛ •', url='https://t.me/+SDBvltduRtkyMGM1')
                 ],
                 [
                     InlineKeyboardButton(text='⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ⇆', url=f'https://telegram.me/{Telegram.BOT_USERNAME}?startchannel=botstart')
@@ -45,8 +45,8 @@ async def send_emojis(_, msg: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text='👨‍💻 ᴏᴡɴᴇʀ', url='https://telegram.me/CallOwnerBot'),
-                    InlineKeyboardButton(text='💥 ʀᴇᴘᴏ', url='https://github.com/TechifyBots/Auto-Reaction-Bot')
+                    InlineKeyboardButton(text='👨‍💻 ᴏᴡɴᴇʀ', url='https://telegram.me/randeep_singh48'),
+                    InlineKeyboardButton(text='💥 ʀᴇᴘᴏ', url='https://telegram.me/randeep_singh48')
                 ]
             ]
         )
